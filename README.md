@@ -1,4 +1,4 @@
-Projeto DevLinks (ou inspirado nele). Compartilhe com a gente!
+Projeto DevLinks (ou inspirado nele). Inspirado: devlinks-github.maykbrito.dev
 
 Link do repositório do seu projeto:
 
