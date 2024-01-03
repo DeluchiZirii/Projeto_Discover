@@ -1,4 +1,4 @@
-Projeto DevLinks (ou inspirado nele). Inspirado: devlinks-github.maykbrito.dev
+Projeto DevLinks (ou inspirado nele).
 
 Link do repositório do seu projeto:
 
@@ -7,3 +7,5 @@ Link do repositório do seu projeto:
 Link público do seu projeto (Github Pages):
 
 - https://deluchizirii.github.io/Projeto/
+
+- Inspirado: devlinks-github.maykbrito.dev
